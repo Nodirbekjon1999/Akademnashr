@@ -165,10 +165,10 @@ body{
 
   .hero-img{
     position: absolute;
-    left: 898px;
-    top: 131px;
     width: 510px;
     height: 510px;
+    top: -221px;
+    left: -511px;
     box-shadow: 24px 24px 0 0 rgba(255, 117, 0, 0.6);
     border-radius: 8px;
   }
@@ -273,8 +273,8 @@ width: 440px;
 
 .promo-img{
   position: absolute;
-  top: 1608px;
-  left: 845px;
+  top: -283px;
+  left: -430px;
   width: 440px;
   height: 440px;
 }
